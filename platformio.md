@@ -1,2 +1,4 @@
 # ติดตั้งplatformioสำเร็จ
-- ใช้platforioผ่าน visual studio code
+- ขั้นที่1 โหลดpythonแล้วกดpath
+- ขั้นที่2 ใส่คำสั่งติดตั้งที่Command prompt
+- ขั้นที่3 เช็คด้วยใส่คำว่า pio
